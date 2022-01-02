@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Bioinformatics community
 - 📫 How to reach me IG : @veltanvein
-
-[FInal-GBRC-3703.pdf](https://github.com/nitinShukla1912/nitinShukla1912/files/7799279/FInal-GBRC-3703.pdf)
+![Rplot07](https://user-images.githubusercontent.com/96987153/147880461-7b03be84-c789-4ff4-a24c-de53370048b9.jpeg)
