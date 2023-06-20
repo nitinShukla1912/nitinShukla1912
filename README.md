@@ -2,5 +2,5 @@
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning docker 
 - 💞️ I’m looking to collaborate on Bioinformatics community
-- 📫 How to reach me IG : @veltanvein
+- 📫 How to reach me IG : @veltanvein / $email: nitinshukla1912@gmail.com
 ![Rplot07](https://user-images.githubusercontent.com/96987153/147880461-7b03be84-c789-4ff4-a24c-de53370048b9.jpeg)
