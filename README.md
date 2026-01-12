@@ -2,4 +2,4 @@
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently working on wastewater viral surveillance 
 - 💞️ I’m looking to collaborate on Bioinformatics community
-- 📫 How to reach me IG : @veltanvein / $email: nitinshukla1912@gmail.com
+- 📫 How to reach me $email: nitinshukla1912@gmail.com
