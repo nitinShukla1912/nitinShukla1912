@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitinShukla1912
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently working on wastewater viral surveillance 
-- 💞️ I’m looking to collaborate on Bioinformatics community
+- 💞️ I’m looking to collaborate with Bioinformatics community
 - 📫 How to reach me $email: nitinshukla1912@gmail.com
