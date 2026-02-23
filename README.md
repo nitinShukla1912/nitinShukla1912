@@ -1,5 +1,3 @@
-# Nitin Shukla — Bioinformatics Portfolio
-
 Hi, I’m **@nitinShukla1912**.
 
 I’m interested in **bioinformatics**, with a current focus on **wastewater viral surveillance**. I’m also open to collaborating with the broader bioinformatics community.
