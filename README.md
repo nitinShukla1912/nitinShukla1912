@@ -1,6 +1,6 @@
 Hi, I’m **@nitinShukla1912**.
 
-I’m interested in **bioinformatics**, with a current focus on **wastewater viral surveillance**. I’m also open to collaborating with the broader bioinformatics community.
+I’m working in **bioinformatics**, with a current focus on **wastewater viral surveillance**. I’m also open to collaborating with the broader bioinformatics community.
 
 - 📫 Contact: **nitinshukla1912@gmail.com**
 
